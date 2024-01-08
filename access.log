@@ -1,0 +1,7 @@
+41.68.205.111 - - [19/May/2023:06:18:26 +0200] "GET / HTTP/1.1" 200 686 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+41.68.205.111 - - [19/May/2023:06:18:26 +0200] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://myorder2.egytelecoms.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+41.68.205.111 - - [19/May/2023:06:18:26 +0200] "GET /icons/unknown.gif HTTP/1.1" 200 529 "http://myorder2.egytelecoms.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+41.68.205.111 - - [19/May/2023:06:18:26 +0200] "GET /favicon.ico HTTP/1.1" 404 502 "http://myorder2.egytelecoms.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+41.68.205.111 - - [19/May/2023:06:18:50 +0200] "GET / HTTP/1.1" 404 503 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+41.68.205.111 - - [19/May/2023:06:19:25 +0200] "GET / HTTP/1.1" 403 506 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+41.68.205.111 - - [19/May/2023:06:27:05 +0200] "GET / HTTP/1.1" 500 815 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
