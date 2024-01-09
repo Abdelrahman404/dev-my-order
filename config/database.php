@@ -44,6 +44,7 @@ return [
         ],
 
         'mysql' => [
+            // testing
             'driver' => 'mysql',
             // 'url' => env('DATABASE_URL'),
             'host' => env('RDS_HOST', '127.0.0.1'),
